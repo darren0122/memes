@@ -1,0 +1,3 @@
+https://youtu.be/iYk1Obt9UGQ?si=Dlbi2hvZ-VA3vw2s&t=260
+嵌入網址:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iYk1Obt9UGQ?si=HODdqj36Fx7mlTwO&amp;start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
